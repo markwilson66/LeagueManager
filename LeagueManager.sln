@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueManager", "LeagueManager\LeagueManager.csproj", "{53EC835B-81A8-4975-B837-5A852E31D62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueManager.Tests", "LeagueManager.Tests\LeagueManager.Tests.csproj", "{DDAB5D8D-E34B-4255-89BA-713BF01B0D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EC835B-81A8-4975-B837-5A852E31D62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EC835B-81A8-4975-B837-5A852E31D62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EC835B-81A8-4975-B837-5A852E31D62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EC835B-81A8-4975-B837-5A852E31D62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAB5D8D-E34B-4255-89BA-713BF01B0D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAB5D8D-E34B-4255-89BA-713BF01B0D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAB5D8D-E34B-4255-89BA-713BF01B0D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAB5D8D-E34B-4255-89BA-713BF01B0D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

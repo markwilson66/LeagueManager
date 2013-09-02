@@ -10,7 +10,7 @@ namespace LeagueManager.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template  to jump-start your awesome ASP.NET MVC application.";
+            ViewBag.Message = "Modify this template to jump-start your awesome ASP.NET MVC application.";
 
             return View();
         }
